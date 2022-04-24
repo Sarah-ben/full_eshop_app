@@ -47,7 +47,8 @@ dependencies:
   multi_image_picker2: any
   flutter_dialpad: any
   connectivity: any
-
+  flutter_bloc: any
+  bloc: any
 dev_dependencies:
   flutter_test:
     sdk: flutter
